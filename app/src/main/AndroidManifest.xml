@@ -40,5 +40,5 @@
                 android:value="" />
         </activity>
     </application>
-
+<!--added new comment to check-->
 </manifest>
